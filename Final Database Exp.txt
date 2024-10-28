@@ -1,0 +1,5 @@
+Nos dias atuais, as empresas enfrentam volumes de dados sem precedentes e precisam de soluções robustas e escaláveis para armazená-los e analisá-los. A flexibilidade dos Bancos de Dados Não Relacionais (NoSQL) ganha destaque ao complementar os Bancos de Dados Relacionais (SQL), especialmente em empresas que processam grandes quantidades de dados dinâmicos.
+
+No ambiente corporativo, como em grandes redes de supermercados, SQL gerencia registros estruturados para garantir a consistência, enquanto NoSQL é aplicado a dados de clientes, possibilitando a análise em tempo real e adaptando-se à necessidade constante de personalização de campanhas. Um Engenheiro de Dados precisa balancear esses dois sistemas para que os Cientistas de Dados consigam realizar análises preditivas e avançadas, ajudando as empresas a antecipar tendências de mercado.
+
+A construção de um repositório Git sobre esses conceitos serve tanto para consulta quanto para o portfólio, destacando habilidades práticas e teóricas em diferentes sistemas de banco de dados – algo essencial para uma carreira em engenharia e ciência de dados.
